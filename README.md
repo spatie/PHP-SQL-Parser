@@ -1,3 +1,6 @@
+
+[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
+
 [![Build Status](https://travis-ci.org/greenlion/PHP-SQL-Parser.svg?branch=master)](https://travis-ci.org/greenlion/PHP-SQL-Parser)
 
 PHP-SQL-Parser
